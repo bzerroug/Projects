@@ -1,11 +1,12 @@
 # Analyse
 
-- Subject: 
-Use statistics to: 
+## Subject
+
+- Use statistics to: 
   - Describe the data (distribution, outliers...)
   - Study the correlations among the data (deal with categorical cases)
   - Study distributions
-Build model of prediction (binary classification) in the case of unbalanced data.
+- Build model of prediction (binary classification) in the case of unbalanced data.
 
 ## Run project
 

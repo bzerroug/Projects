@@ -1,6 +1,7 @@
 # Deal with big files in python
 
 ## Subject 
+
 - From the file job_post.log containing jobs data:
   - the job title
   - the industry id
